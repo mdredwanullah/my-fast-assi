@@ -1,0 +1,382 @@
+.inter-open-ai {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: normal;
+  font-size: normal ;
+}
+
+
+ 
+ /* Imopre google class */
+body {
+  margin: 0;
+  font-family: 'Raleway',sans-serif;
+  color: #fff;
+  background-color: #f5f4ff;
+}
+
+
+/* header style */
+.header{
+   background: url('../Assets/Hero-bg.png');
+   max-width: 1440px 736px;
+   text-align: center;
+   gap: 158px;
+}
+/* nav styles */
+.new{
+  color: #003cff;
+
+}
+/* nav content */
+.nav-content {
+ display: flex;
+ gap: 158px;
+ justify-content: space-between;
+ margin: 50px 150px;
+}
+
+.nav-title{
+ font-size: 24px;
+ padding: 12px 36px;
+ font-size: #4E47FF;
+}
+ 
+
+.btn-primary{
+ background-color: #007bff;
+ border: none;
+ font-weight: bold;
+ color: #FFFFFF;
+ padding: 12px 36px;
+ border-radius: 4px;
+ cursor: #FFFFFF;
+
+}
+
+.content-title {
+  color: #252432;
+  font-weight: bold;
+  font-size: 65px;
+}
+
+.hero-content {
+text-align: center;
+margin-top: auto; 
+margin-bottom: 80px;
+}
+
+.here-content .content-title {
+font-size: 48px;
+line-height: 1.2;
+margin-bottom: 20px;
+}
+
+/* main */
+main {
+  max-width: 1140px;
+  margin: 0 auto;
+}
+
+/*action section  */
+.action-section {
+ display: flex;
+ justify-content: space-between;
+ color: #252432;
+ max-width: 1140px 306px;
+
+}
+
+.action {
+    flex: 1;
+    padding: 20px;
+}
+
+.action-title {
+font-size: 32px;
+tab-size: 42px;
+margin-bottom: 10px;
+color: #000000;
+}   
+
+.bb-primary {
+  font-size: 24px;
+  color: #000;
+  border-radius: 50%;
+}
+
+.action-description {
+font-size: 18px;
+margin-bottom: 20px;
+}
+.action-img {
+  max-width: 100%;
+  border-radius: 20px;
+}
+
+.user-section {
+  text-align: center;
+  padding: 80px 50px;
+  background-color: #ddd6f8;
+  gap: 50px;
+  max-width: 1140px 342px;
+
+
+  width: 750px; margin: 0 auto;
+}
+
+.user-title {
+  color: #252432;
+  font-size: 38px;
+}
+
+.iteam-container {
+display: flex; 
+justify-content: center;
+gap: 10px;
+color: #f5f8ff;
+}
+
+.user-iteam {
+  padding: 40px;
+  border-radius: 10px;
+  color: #003cff;
+}
+
+
+.iteam-title {
+ font-size: 48px;
+ color:  #003cff;
+ margin: 0;
+}
+
+.iteam-descripition {
+  font-size: 10px;
+  color: #6e5f5f;
+  margin: 5px 0 0 0;
+}
+/* git section styale */
+.git-containare {
+  display: flex;
+  gap: 20px;
+  
+}
+
+.git-section {
+  padding: 60px 40px;
+ background-color:  #f5f8ff;
+ color:  #000000;
+ text-align: center;
+}
+
+.git-section-title {
+  color: #252432;
+  font-size: 42px;
+  margin: 40px;
+}
+
+
+.git-iteam {
+  border:  #000000;
+  padding: 20px;
+  border-radius: 10px;
+  width: 300px;
+}
+
+.git-icon img {
+  width: 20px;
+}
+
+.git-titel {
+  margin: 20px 0 10px 0;
+  font-size: 20px;
+  color: #000;
+}
+
+.description {
+  font-size: 16px;
+  color: #000;
+}
+
+.pro {
+  width: 40px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+/* free stayle */
+.free-img {
+  margin: 20px 150px;
+}
+
+
+
+.free {
+  align-items: center;
+  background: #ffffff;
+  padding: 80px 40px;
+  color:  #FFFFFF;
+  width: 900px;
+  margin: auto;
+}
+/* free styale */
+.free-section {
+  display: flex;
+  max-width: 140px 696.77px;
+}
+
+.free-title {
+  font-size: 36px;
+  text-align: center;
+  margin-bottom: 20px;
+  color: #000000;
+}
+
+.free-primary{
+ color: #817b7b;
+ text-align: center;
+}
+
+.canter-vu {
+  text-align: center;
+  
+
+}
+
+
+.free-description {
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+.free-to-img {
+  max-width: 100%;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.free-section {
+  background-color: #f5f8ff;
+  padding: 60px 40px;
+  text-align: left;
+  color: #000;
+  margin-top: 71px;
+}
+
+
+/* footer styles */
+footer {
+  padding: 70px 0;
+  display: flex;
+}
+
+/* nfree styles */
+.nfree-centainar{
+  max-width: 1140px 632px;
+  padding: 71px 0;
+  justify-content: center;
+  display: flex;
+  gap: 200px;
+}
+.nfree-title {
+  font-size: 97px;
+  color: #000000;
+}
+
+
+.inter-le{
+ color: #000000;
+ font-size: 18PX;
+}
+
+.free-center {
+  alignment-baseline: 19px;
+  align-self: normal;
+
+}
+
+.label-title {
+  font-size: 16px;
+  color: #000000;
+}
+
+section input[type="email"], section input[type=Name],section textarea{
+  height: 70px;
+  border-radius: 5px;
+  background-color: white;
+  display: block;
+  width: 100%;
+  padding: 20px 32px;
+  margin-bottom:10px;
+  border:  none;
+}
+
+
+
+.btn-ptimary{
+  margin-top: 20px;
+  background-color: #007bff;
+  border: none;
+  color: #fff;
+  padding: 12px 24px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+
+/*footer styles */
+.footer-section { 
+  display: flex;
+  justify-content: center;
+  background: #ffffff;
+  padding: 45px;
+  text-align: center;
+}
+.footer-ico{
+  text-align: center;
+}
+
+.footer-logo {
+  color: #4E47FF;
+  font-size: 100px;
+  margin-bottom: 10px;
+}
+
+.footer-deseription {
+  font-size: 16px;
+  margin-bottom: 20px;
+
+}
+
+.footer-centainer {
+  gap: 40px;
+  color: #000;
+}
+
+.footer-centainer .iteam a {
+  color: black;
+  text-decoration: none;
+  font-size: 16px;
+
+}
+/* nav styles */
+ nav {
+  align-items: center;
+ 
+} 
+
+nav div a {
+  text-decoration: none;
+
+}
+
+
+.auto-me {
+  display: flex;
+  justify-content: space-between;
+  gap: 24px;
+  text-align: center;
+}
+.dark-to {
+  color: #7e7d89;
+}
